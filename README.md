@@ -1,14 +1,15 @@
-# Algorithms From Scratch
+# From Scratch
 
-Welcome to **Algorithms From Scratch**!  
-This repository is dedicated to implementing a wide variety of algorithms across topics in Computer Science-including Machine Learning, Deep Learning, Signal Processing, and more-**without relying on major libraries**. Our goal is to understand and code each algorithm from first principles, focusing on clarity, educational value, and hands-on learning.
+Welcome to **From Scratch**!  
+This repository is dedicated to implementing a wide variety of algorithms across topics in Computer Science-including Machine Learning, Deep Learning, Data Science, Signal and Image Processing, Optimisation Algorithms and more-**without relying on major libraries**. Our goal is to understand and code each algorithm from first principles, focusing on clarity, educational value, and hands-on learning.
 
 ---
 
 ## 🚀 Project Goals
 
 - **Learn by Doing:** Deepen understanding by building algorithms from the ground up.
-- **Minimal Dependencies:** Avoid major libraries (like NumPy, scikit-learn, TensorFlow, etc.); use only basic language features and minimal standard libraries where necessary.
+- **Improvise:** If existing algorithms already exist in the repo feel free to improvise it.
+- **Minimal Dependencies:** Avoid major libraries (like NumPy, scikit-learn, TensorFlow, etc.); use only basic language features and minimal standard libraries where necessary. ( Major languages like Python, C/C++ and Java are allowed )
 - **Comprehensive Coverage:** Tackle algorithms from ML, DL, signal processing, and other CS fields.
 - **Readable & Well-Documented:** Ensure code is easy to follow, well-commented, and accompanied by explanations.
 
