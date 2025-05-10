@@ -78,3 +78,7 @@ By avoiding major libraries, we force ourselves to truly understand how each alg
 
 Happy coding!  
 *Questions or suggestions? Open an issue or start a discussion!*
+
+**NOTE:** This repo is still under development and needs more contributors to fix and improve the concept of doing algorithms from scratch. If the pull requests get delayed feel free to contact us.
+
+*An Initiative Taken By Students Of Kalyani Government Engineering College*
