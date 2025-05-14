@@ -83,4 +83,5 @@ Happy coding!
 **NOTE:** This repo is still under development and needs more contributors to fix and improve the concept of doing algorithms from scratch. If the pull requests get delayed feel free to contact us.
 
 *An Initiative Taken By Student Of Dept of CSE, Kalyani Government Engineering College*
-*Repo first created on May, 2025 by Nirjhar Debnath,a student of Dept of CSE*
+
+*Repo first created on May, 2025 by Nirjhar Debnath, Student of Dept of CSE*
