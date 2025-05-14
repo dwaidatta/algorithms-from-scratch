@@ -24,7 +24,7 @@ This repository is dedicated to implementing a wide variety of algorithms across
 2. **Clone your forked repository:**
 
 ```
-git clone https://github.com/<yNirjharDebnath>/<forked-repo-name>.git`
+git clone https://github.com/NirjharDebnath/<forked-repo-name>.git`
 ```
 
 3. **Explore the folders:**  
