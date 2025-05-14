@@ -1,15 +1,16 @@
 # From Scratch
 
 Welcome to **From Scratch**!  
-This repository is dedicated to implementing a wide variety of algorithms across topics in Computer Science-including Machine Learning, Deep Learning, Data Science, Signal and Image Processing, Optimisation Algorithms and more-**without relying on major libraries**. Our goal is to understand and code each algorithm from first principles, focusing on clarity, educational value, and hands-on learning.
+This repository is dedicated to implementing a wide variety of algorithms across topics in Computer Science-including Machine Learning, Deep Learning, Data Science, Signal and Image Processing, Digital Logic, Optimisation Algorithms, Advanced Data Structures And Algorithms, Algebra, Physics and Mathematics, OS, Architecture And Organisation, Networking and Databases and more-**without relying on major libraries**. Our goal is to understand and code each algorithm from first principles, focusing on clarity, educational value, and hands-on learning.
 
 ---
 
 ## 🚀 Project Goals
 
-- **Learn by Doing:** Deepen understanding by building algorithms from the ground up.
+- **Learn by Doing:** Deepen understanding by building algorithms from the ground up. Consider it as a challenge and code up your favourite algorithm from ground up using pure logic and minimal dependencies !!!!
 - **Improvise:** If existing algorithms already exist in the repo feel free to improvise it.
 - **Minimal Dependencies:** Avoid major libraries (like NumPy, scikit-learn, TensorFlow, etc.); use only basic language features and minimal standard libraries where necessary. ( Major languages like Python, C/C++ and Java are allowed )
+- **Usage Of Pre-Defined Libraries:** One can use pre defined popular libraries to do accessory stuff like plotting or calculating complex equations but cannot use them for implementing the algorithm to be written from scratch
 - **Comprehensive Coverage:** Tackle algorithms from ML, DL, signal processing, and other CS fields.
 - **Readable & Well-Documented:** Ensure code is easy to follow, well-commented, and accompanied by explanations.
 
@@ -23,17 +24,17 @@ This repository is dedicated to implementing a wide variety of algorithms across
 2. **Clone your forked repository:**
 
 ```
-git clone https://github.com/<your-username>/<your-forked-repo-name>.git`
+git clone https://github.com/<yNirjharDebnath>/<forked-repo-name>.git`
 ```
 
 3. **Explore the folders:**  
 Each topic contains standalone scripts for individual algorithms.
 
 4. **Run the code:**  
-Most scripts are self-contained and can be run directly with Python 3.x:
+Most scripts are self-contained and can be run directly with Python 3.x and Jupyter Notebooks:
 
 ```
-python machine_learning/linear_regression.py
+python Linear Regression.py
 ```
 
 5. **Read the explanations:**  
@@ -72,7 +73,7 @@ This project is licensed under the MIT License.
 
 ## 💡 Why This Approach?
 
-By avoiding major libraries, we force ourselves to truly understand how each algorithm works under the hood. This is a great way to learn, teach, and demystify the magic behind modern software and data science.
+By avoiding major libraries, we force ourselves to truly understand how each algorithm works under the hood. This is a great way to learn, teach, and demystify the magic behind modern software, data science, maths physics and core CS topics which are widely used.
 
 ---
 
@@ -81,4 +82,5 @@ Happy coding!
 
 **NOTE:** This repo is still under development and needs more contributors to fix and improve the concept of doing algorithms from scratch. If the pull requests get delayed feel free to contact us.
 
-*An Initiative Taken By Students Of Kalyani Government Engineering College*
+*An Initiative Taken By Student Of Dept of CSE, Kalyani Government Engineering College*
+*Repo first created on May, 2025 by Nirjhar Debnath,a student of Dept of CSE*
