@@ -44,10 +44,8 @@ Each script contains comments and, where appropriate, markdown explanations to c
 
 ## 📚 Topics Covered
 
-- **Machine Learning:** Linear Regression, K-Means, Decision Trees, etc.
-- **Deep Learning:** Basic Neural Networks, Backpropagation, etc.
-- **Signal Processing:** Discrete Fourier Transform, Filtering, etc.
-- **Other CS Algorithms:** Sorting, Search, Graph Algorithms, and more.
+- **Machine Learning:** Linear Regression, Logistic Regression, K-Means, Decision Trees, etc.
+- **Pseudo Random Number Generator:** MT19337 or Mersenne Twister, etc
 
 *We’re continuously adding new algorithms!*
 
