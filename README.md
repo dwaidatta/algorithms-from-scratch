@@ -45,7 +45,8 @@ Each script contains comments and, where appropriate, markdown explanations to c
 ## 📚 Topics Covered
 
 - **Machine Learning:** Linear Regression, Logistic Regression, K-Means, Decision Trees, etc.
-- **Pseudo Random Number Generator:** MT19337 or Mersenne Twister, etc
+- **Pseudo Random Number Generator:** MT19337 or Mersenne Twister, etc.
+- **Deep Learning:** ANN, etc.
 
 *We’re continuously adding new algorithms!*
 
