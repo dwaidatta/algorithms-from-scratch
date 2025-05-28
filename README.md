@@ -1,5 +1,13 @@
 # From Scratch
 
+<a href="https://github.com/NirjharDebnath/From-Scratch" target="_blank">
+  <img src="https://img.shields.io/badge/Explore%20Repo-From--Scratch-blue?style=for-the-badge" />
+</a>
+<a href="https://your-docs-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/View-Documentation-brightgreen?style=for-the-badge&logo=readthedocs" />
+</a>
+
+
 Welcome to **From Scratch**!  
 This repository is dedicated to implementing a wide variety of algorithms across topics in Computer Science-including Machine Learning, Deep Learning, Data Science, Signal and Image Processing, Digital Logic, Optimisation Algorithms, Advanced Data Structures And Algorithms, Algebra, Physics and Mathematics, OS, Architecture And Organisation, Networking and Databases and more-**without relying on major libraries**. Our goal is to understand and code each algorithm from first principles, focusing on clarity, educational value, and hands-on learning.
 
