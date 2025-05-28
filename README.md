@@ -44,7 +44,7 @@ Each script contains comments and, where appropriate, markdown explanations to c
 
 ## 📚 Topics Covered
 
-- **Machine Learning:** Linear Regression, Logistic Regression, K-NearestNeighbours, Decision Trees, etc.
+- **Machine Learning:** Linear Regression, Logistic Regression, K-NearestNeighbours, Decision Trees, Naive Bayes etc.
 - **Pseudo Random Number Generator:** MT19337 or Mersenne Twister, etc.
 - **Deep Learning:** ANN, etc.
 
