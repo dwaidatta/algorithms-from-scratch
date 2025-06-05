@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/View-Documentation-brightgreen?style=for-the-badge&logo=readthedocs" />
 </a>
 
-![Logo](Logo/Logo.png)
+![Logo](_static/assets/logo.png)
 
 
 Welcome to **From Scratch**!  
