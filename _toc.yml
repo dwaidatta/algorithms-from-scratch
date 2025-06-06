@@ -68,7 +68,7 @@ chapters:
   - file: Notebooks/Statistics/README
     sections:
       - file: Notebooks/Statistics/Covariance_Correlation
-      - file: Notebooks/Statistics/Curve Fitting
+      - file: Notebooks/Statistics/Curve_Fitting
       - file: Notebooks/Statistics/Experimenting_Fair_Coin
       - file: Notebooks/Statistics/Hypothesis_Testing
       - file: Notebooks/Statistics/Probability_Distributions
