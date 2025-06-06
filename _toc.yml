@@ -1,0 +1,76 @@
+# TABLE OF CONTENTS
+
+format: jb-book
+root: Notebooks/README
+
+chapters:
+
+  #################################################################
+
+  # SAMPLE:
+
+
+  # - file: Notebooks/Cybersecurity/README
+  #     title: Sample Work
+  #     sections:
+  #       - file: Notebooks/Cybersecurity/Pseudo_Random_Number_Generator/MT19337
+  #         sections:
+  #           - file: 
+
+
+  ##################################################################
+
+
+  - file: Notebooks/Cybersecurity/README
+    sections:
+      - file: Notebooks/Cybersecurity/Pseudo_Random_Number_Generator/README
+        sections:
+          - file: Notebooks/Cybersecurity/Pseudo_Random_Number_Generator/MT19337
+
+
+
+  - file: Notebooks/Deep_Learning/README
+    sections:
+      - file: Notebooks/Deep_Learning/Neural_Networks/README
+        sections:
+          - file: Notebooks/Deep_Learning/Neural_Networks/ANN
+
+
+
+  - file: Notebooks/Machine_Learning/README
+    sections:
+      - file: Notebooks/Machine_Learning/KNN/README
+        sections:
+          - file: Notebooks/Machine_Learning/KNN/KNearestNeighbours_Classifier
+      - file: Notebooks/Machine_Learning/Linear_Regression/README
+        sections:
+          - file: Notebooks/Machine_Learning/Linear_Regression/Linear_Regression
+          - file: Notebooks/Machine_Learning/Linear_Regression/Statistical_Regression
+      - file: Notebooks/Machine_Learning/Logistic_Regression/README
+        sections:
+          - file: Notebooks/Machine_Learning/Logistic_Regression/Logistic_Regression
+      - file: Notebooks/Machine_Learning/Naive_Bayes/README
+        sections:
+          - file: Notebooks/Machine_Learning/Naive_Bayes/Gaussian_Naive_Bayes
+
+
+
+  - file: Notebooks/Mathematics/README
+    sections:
+      - file: Notebooks/Mathematics/Calculus/README
+        sections:
+          - file: Notebooks/Mathematics/Calculus/Recursive Differentiation
+      - file: Notebooks/Mathematics/Determining_pi_chudnovsky_algorithm
+      - file: Notebooks/Mathematics/Three_point_minima_search
+      
+
+
+  - file: Notebooks/Statistics/README
+    sections:
+      - file: Notebooks/Statistics/Covariance_Correlation
+      - file: Notebooks/Statistics/Curve Fitting
+      - file: Notebooks/Statistics/Experimenting_Fair_Coin
+      - file: Notebooks/Statistics/Hypothesis_Testing
+      - file: Notebooks/Statistics/Probability_Distributions
+      - file: Notebooks/Statistics/Statistical_Regression
+

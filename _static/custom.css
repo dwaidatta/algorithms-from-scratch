@@ -1,0 +1,73 @@
+/* Light Theme - Blue Colors */
+html[data-theme="light"] {
+  --pst-color-primary: #1e40af;           /* Blue-800 */
+  --pst-color-secondary: #3b82f6;         /* Blue-500 */
+  --pst-color-background: #ffffff;        /* White background */
+  --pst-color-link: #2563eb;              /* Blue-600 */
+  --pst-color-link-hover: #1d4ed8;        /* Blue-700 */
+  --pst-color-active-navigation: #1e40af; /* Blue-800 */
+  --pst-color-navbar-link: #2563eb;       /* Blue-600 */
+  --pst-color-sidebar-link: #3b82f6;      /* Blue-500 */
+  --pst-color-text-base: #1e293b;         /* Dark blue text */
+  --pst-color-inline-code: #e0e7ff;       /* Light blue inline code background */
+  --pst-color-preformatted-text: #1e3a8a; /* Dark blue code text */
+  --pst-color-preformatted-background: #f3f4f6; /* Light gray code background */
+}
+
+/* Inline code in light mode: white background, dark blue text for best visibility */
+html[data-theme="light"] code, html[data-theme="light"] .inline-code {
+  background-color: #ffffff !important;
+  color: #1e293b !important;
+  padding: 0.2em 0.4em;
+  border-radius: 0.3em;
+  font-weight: 500;
+  box-shadow: 0 1px 2px rgba(30,64,175,0.03);
+}
+
+/* Dark Theme - Light Blue Colors */
+html[data-theme="dark"] {
+  --pst-color-primary: #93c5fd;           /* Blue-300 (light blue) */
+  --pst-color-secondary: #bfdbfe;         /* Blue-200 (lighter blue) */
+  --pst-color-background: #0f172a;        /* Dark navy background */
+  --pst-color-link: #60a5fa;              /* Blue-400 */
+  --pst-color-link-hover: #3b82f6;        /* Blue-500 */
+  --pst-color-active-navigation: #93c5fd; /* Blue-300 */
+  --pst-color-navbar-link: #bfdbfe;       /* Blue-200 */
+  --pst-color-sidebar-link: #60a5fa;      /* Blue-400 */
+  --pst-color-text-base: #e0e7ff;         /* Light blue text */
+  --pst-color-inline-code: #1e40af;       /* Dark blue inline code background */
+  --pst-color-preformatted-text: #bfdbfe; /* Light blue code text */
+  --pst-color-preformatted-background: #1e293b; /* Dark blue code background */
+}
+
+/* Inline code in dark mode: dark blue background, white text for contrast */
+html[data-theme="dark"] code, html[data-theme="dark"] .inline-code {
+  background-color: #1e40af !important;
+  color: #ffffff !important;
+  padding: 0.2em 0.4em;
+  border-radius: 0.3em;
+  font-weight: 500;
+  box-shadow: 0 1px 2px rgba(30,64,175,0.10);
+}
+
+/* Universal improvements */
+.bd-content h1 {
+  color: var(--pst-color-primary);
+}
+
+a:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+
+
+
+
+
+
+
+  /* Hide the "Print to PDF" button in the download dropdown */
+  .btn-download-pdf-button {
+    display: none !important;
+  }

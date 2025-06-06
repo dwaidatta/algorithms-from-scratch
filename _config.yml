@@ -1,0 +1,103 @@
+#######################################################################################
+# Book settings
+title: From Scratch
+author: Nirjhar Debnath
+copyright: "2025"
+logo: _static/assets/logo.png
+exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
+only_build_toc_files: false
+
+#######################################################################################
+# Execution settings
+execute:
+  execute_notebooks: "off"
+  allow_errors: true
+  timeout: 180
+
+#######################################################################################
+# Parse and render settings
+parse:
+  myst_enable_extensions:
+    - amsmath
+    - colon_fence
+    - dollarmath
+    - linkify
+    - substitution
+    - tasklist
+  myst_url_schemes: [mailto, http, https]
+  myst_dmath_double_inline: true
+  myst_dmath_allow_labels: true
+
+#######################################################################################
+# HTML-specific settings
+html:
+  favicon: _static/assets/logo.png
+  use_edit_page_button: false
+  use_repository_button: true
+  use_issues_button: true
+  use_multitoc_numbering: true
+  home_page_in_navbar: true
+  baseurl: ""
+  extra_files: ["_static"]
+  announcement: "<b>Welcome!</b> Explore the notebooks and try them live in Colab."
+  analytics:
+    plausible_analytics_domain: ""
+    plausible_analytics_url: ""
+    google_analytics_id: ""
+
+  comments:
+    hypothesis: false
+    utterances: false
+
+#######################################################################################
+# Sphinx theme and custom CSS
+sphinx:
+  config:
+    html_theme_options:
+      repository_url: https://github.com/NirjharDebnath/From-Scratch
+      repository_branch: main
+      path_to_docs: ""
+      use_repository_button: true
+      use_issues_button: true
+      use_edit_page_button: false
+      use_download_button: true
+      launch_buttons:
+        colab_url: "https://colab.research.google.com"
+        binderhub_url: ""
+        jupyterhub_url: ""
+        thebe: false
+        notebook_interface: "classic"
+      extra_navbar: |
+        <a href="https://github.com/NirjharDebnath/From-Scratch" target="_blank">
+          <img src="_static/assets/github.svg" alt="GitHub" width="24" style="vertical-align:middle;"/> GitHub
+        </a>
+      extra_footer: |
+        <hr>
+        <div style="text-align:center; padding: 1rem;">
+          <strong>From Scratch</strong> by Nirjhar Debnath<br>
+          <a href="https://github.com/NirjharDebnath" target="_blank">GitHub</a> | 
+          <a href="https://www.linkedin.com/in/nirjhar-debnath-515918331" target="_blank">LinkedIn</a><br>
+          MIT License
+        </div>
+      show_navbar_depth: 0
+    html_logo: 
+    html_favicon: _static/assets/logo.png
+    html_css_files:
+      - custom.css
+
+#######################################################################################
+# LaTeX-specific settings
+latex:
+  latex_engine: pdflatex
+  use_jupyterbook_latex: true
+
+#######################################################################################
+# Repository info for "edit this page" and launch links
+repository:
+  url: https://github.com/NirjharDebnath/From-Scratch
+  branch: main
+  path_to_book: ""
+
+#######################################################################################
+# HTML static path
+html_static_path: ["_static"]
