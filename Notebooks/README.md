@@ -36,7 +36,7 @@ What makes this project unique? Every algorithm is built **from first principles
 
 ---
 
-## 📚 Topics Covered
+## 📚 Topics We Going To Cover
 
 - **Machine Learning:**  
   Linear Regression, Logistic Regression, $k$-Nearest Neighbours, Decision Trees, Naive Bayes, etc.
